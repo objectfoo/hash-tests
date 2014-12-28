@@ -1,0 +1,1 @@
+test out some file content hashing props.
